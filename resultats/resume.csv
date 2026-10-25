@@ -1,0 +1,7 @@
+detecteur;strategie;parametres;P_moyen;TFP_moyen;TFN_moyen
+Sobel;parametres globaux;seuil=80 ksize=3;0.1491;0.5270;0.3239
+Sobel;meilleur par image;-;0.1620;0.5178;0.3202
+Laplace;parametres globaux;seuil=38 ksize=3;0.0545;0.7821;0.1634
+Laplace;meilleur par image;-;0.0585;0.7656;0.1759
+Canny;parametres globaux;bas=70 haut=140;0.1363;0.4272;0.4364
+Canny;meilleur par image;-;0.1526;0.3735;0.4738
